@@ -1,0 +1,16 @@
+#footer{
+    background: linear-gradient(0deg,#1c3643,#273b47 25%,#1e5372);
+  }
+  
+  #footer a{
+    color: #FFFFFF;
+  }
+.btn {
+  border: none; 
+  color: black; 
+  padding: 14px 28px; 
+  cursor: pointer; 
+  border-radius: 5px; 
+}
+.success {background-color: white; border: 2px solid #04AA6D;} 
+.success:hover {background-color: #46a049; color: white;}
